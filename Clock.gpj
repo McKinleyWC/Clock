@@ -1,0 +1,23 @@
+!1237;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2762;d
+[\012  grasp [\012   legendy -40.5\012   legendx -59.0\012   version 1\012   winflags 3\012   eheight 972\012   ewidth 960\012   height 972\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs 2.0\012   xoffs 29.75\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "hr\\011I\\011\\0112\\011\\011\\011Clock\011min\\011I\\011\\0112\\011\\011\\011Clock\011sec\\011I\\011\\0112\\011\\011\\011Clock\011Clock\\011()V\\011c\\0111\\011\\011\\011Clock\011Clock\\011(III)V\\011c\\0111\\011\\011\\011Clock\011equals\\011(LClock;)Z\\011\\0111\\011\\011\\011Clock\011getCopy\\011()LClock;\\011\\0111\\011\\011\\011Clock\011getHours\\011()I\\011\\0111\\011\\011\\011Clock\011getMinutes\\011()I\\011\\0111\\011\\011\\011Clock\011getSeconds\\011()I\\011\\0111\\011\\011\\011Clock\011incrementHours\\011()V\\011\\0111\\011\\011\\011Clock\011incrementMinutes\\011()V\\011\\0111\\011\\011\\011Clock\011incrementSeconds\\011()V\\011\\0111\\011\\011\\011Clock\011makeCopy\\011(LClock;)V\\011\\0111\\011\\011\\011Clock\011printTime\\011()V\\011\\0111\\011\\011\\011Clock\011setTime\\011(III)V\\011\\0111\\011\\011\\011Clock"\012    condition 0\012    access2 0\012    access 2228257\012    classname "Clock"\012    fromclassfiledate 1430632532000\012    fromclassfilename "%\011Clock.class"\012    fromfilename "%\011Clock.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -59.0\012     y 0.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "console\\011Ljava/util/Scanner;\\011\\0118\\011\\011\\011TestProgClock\011TestProgClock\\011()V\\011c\\0111\\011\\011\\011TestProgClock\011<clinit>\\011()V\\011\\0118\\011\\011\\011TestProgClock\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011TestProgClock"\012    condition 0\012    access2 0\012    access 2490401\012    classname "TestProgClock"\012    fromclassfiledate 1430632532000\012    fromclassfilename "%\011TestProgClock.class"\012    fromfilename "%\011TestProgClock.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x 59.0\012     y 0.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  edge [\012   ClassInfo [\012    dependencies "Clock\\011()V\\011c\\011\\011\\011\\011Clock\011Clock\\011(III)V\\011c\\011\\011\\011\\011Clock\011equals\\011(LClock;)Z\\011\\011\\011\\011\\011Clock\011incrementSeconds\\011()V\\011\\011\\011\\011\\011Clock\011makeCopy\\011(LClock;)V\\011\\011\\011\\011\\011Clock\011printTime\\011()V\\011\\011\\011\\011\\011Clock\011setTime\\011(III)V\\011\\011\\011\\011\\011Clock"\012    type 3\012   ]\012   source 0\012   target 1\012  ]\012 ]!40;g
+%\011TestProgClock.java
+%\011Clock.java
+!40;f
+%\011TestProgClock.java
+%\011Clock.java
+!13;l
+%\011methods
